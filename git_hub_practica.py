@@ -18,3 +18,7 @@ class Odam:
 
 simple = Odam("Sadio Mane","qora", "africa", "islom", "1993")
 print(simple.get_info())
+
+
+
+print("Yangi  malumot  yukladim")
